@@ -5,5 +5,5 @@ from PyDictionary import PyDictionary
 dictionary = PyDictionary()
 
 
-def job_verifer(title_of_post, user_perference):
+def job_verifer(list_of_job_titles, user_perference):
     ...
